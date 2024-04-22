@@ -8,7 +8,7 @@
 
 #### MVT Pattern
 
-<img src="images/mvt_pattern.png" alt="mvt_pattern" style="max-width: 720; max-height: 540;">
+<img src="studybud/images/mvt_pattern.png" alt="mvt_pattern" style="max-width: 720; max-height: 540;">
 
 - Steps
   1. Views: Matching URL will find the view
