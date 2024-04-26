@@ -33,3 +33,18 @@ python manage.py startapp base
 ```
 
 - Everytime we create an app we need to link it to the main project
+
+#### Migrations
+
+```text
+python manage.py makemigrations
+python manage.py migrate
+```
+
+#### Models
+
+<img src="studybud/images/models.png" alt="mvt_pattern" style="max-width: 720; max-height: 540;">
+
+#### Query Model
+
+<img src="studybud/images/query_model.png" alt="mvt_pattern" style="max-width: 720; max-height: 540;">
